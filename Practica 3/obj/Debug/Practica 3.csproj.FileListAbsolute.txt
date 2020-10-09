@@ -1,0 +1,10 @@
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\bin\Debug\Practica 3.exe.config
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\bin\Debug\Practica 3.exe
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\bin\Debug\Practica 3.pdb
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica 3.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica_3.Properties.Resources.resources
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica 3.exe
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
+C:\Users\Adrian\Desktop\Escritorio\Septimo Semestre\TAP\Practica 3\Practica 3\obj\Debug\Practica_3.Calculadora.resources
